@@ -75,6 +75,11 @@ write.csv(as.data.frame(fromJSON(x2)), "inst/extdata/multipft_output.csv")
 
 # DOCKER!
 
+## Install Docker
+
+* Download and install [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac) or the
+[Docker CE for your platform](https://store.docker.com/search?type=edition&offering=community)
+
 ## Building a Docker image of the Calculator
 
 ```
